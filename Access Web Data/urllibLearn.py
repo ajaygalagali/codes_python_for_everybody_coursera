@@ -12,3 +12,5 @@ for line in fhand:
 for i in numList:
     print(i)
 
+# print(urllib.parse.urlencode({'adress':'this is test, yes'}))
+
